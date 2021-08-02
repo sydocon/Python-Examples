@@ -1,2 +1,2 @@
 # Python-Examples
-Python examples
+Python coding examples/exercises while learning python
